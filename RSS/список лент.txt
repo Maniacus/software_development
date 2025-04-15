@@ -1,0 +1,3 @@
+https://news.un.org/feed/subscribe/ru/news/all/rss.xml
+https://www.mk.ru/rss/news/index.xml
+https://lenta.ru/rss/news
